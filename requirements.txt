@@ -1,0 +1,6 @@
+mysql-connector-python==8.0.32
+tk==0.1.0
+flask==2.0.1
+PyJWT==2.3.0
+flask-cors
+werkzeug==2.0.3
